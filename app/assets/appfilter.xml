@@ -15302,6 +15302,7 @@
   <item component="ComponentInfo{com.drakeet.purewriter/.WriterActivity}" drawable="pure_writer" name="Pure Writer" />
   <item component="ComponentInfo{com.drakeet.purewriter/com.drakeet.purewriter.WriterActivity}" drawable="pure_writer" name="Pure Writer" />
   <item component="ComponentInfo{com.Majorariatto.Pureya/com.unity3d.player.UnityPlayerActivity}" drawable="pureya" name="pureya" />
+  <item component="ComponentInfo{air.com.bartbonte.purple/air.com.bartbonte.purple.AIRAppEntry}" drawable="purple_bart_bonte" name="purple" />
   <item component="ComponentInfo{tv.orange/tv.twitch.android.app.core.LandingActivity}" drawable="purple_tv" name="PurpleTV" />
   <item component="ComponentInfo{com.manash.purplle/com.manash.purplle.activity.SplashActivity}" drawable="purplle" name="Purplle" />
   <item component="ComponentInfo{id.go.kemenag.pusaka_v2/id.go.kemenag.pusaka_v2.MainActivity}" drawable="pusaka" name="Pusaka" />
