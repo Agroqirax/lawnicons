@@ -3333,6 +3333,7 @@
   <item component="ComponentInfo{com.juliansparber.captiveportallogin/com.juliansparber.captiveportallogin.CaptivePortalLoginActivity}" drawable="generic_shell" name="CaptivePortalLogin" />
   <item component="ComponentInfo{com.keshav.capturesposed/com.keshav.capturesposed.MainActivity}" drawable="capturesposed" name="CaptureSposed" />
   <item component="ComponentInfo{com.capyreader.app/com.capyreader.app.MainActivity}" drawable="capy_reader" name="Capy Reader" />
+  <item component="ComponentInfo{com.capyreader.app.nightly/com.capyreader.app.MainActivity}" drawable="capy_reader_nightly" name="Capy Reader Nightly" />
   <item component="ComponentInfo{com.olzhas.carparking.multyplayer/com.unity3d.player.UnityPlayerActivity}" drawable="car_parking_multiplayer" name="Car Parking Multiplayer" />
   <item component="ComponentInfo{com.olzhas.carparking.multyplayer/com.google.firebase.MessagingUnityPlayerActivity}" drawable="car_parking_multiplayer" name="Car Parking Multiplayer" />
   <item component="ComponentInfo{me.kuehle.carreport/me.kuehle.carreport.gui.MainActivity}" drawable="car_report" name="Car Report" />
@@ -19435,6 +19436,7 @@
   <item component="ComponentInfo{net.thunderbird.android/net.thunderbird.app.common.MainActivity}" drawable="thunderbird" name="Thunderbird" />
   <item component="ComponentInfo{net.thunderbird.android.beta/com.fsck.k9.activity.MessageList}" drawable="thunderbird_beta" name="Thunderbird Beta" />
   <item component="ComponentInfo{net.thunderbird.android.beta/net.thunderbird.app.common.MainActivity}" drawable="thunderbird_beta" name="Thunderbird Beta" />
+  <item component="ComponentInfo{net.thunderbird.android.daily/net.thunderbird.app.common.MainActivity}" drawable="thunderbird_daily" name="Thunderbird Daily" />
   <item component="ComponentInfo{com.tibber.android/com.tibber.android.app.activity.link.MagicLinkActivity}" drawable="tibber" name="Tibber" />
   <item component="ComponentInfo{com.cdg.tictactoe/com.unity3d.player.UnityPlayerActivity}" drawable="tic_tac_toe" name="Tic Tac Toe" />
   <item component="ComponentInfo{com.cdg.tictactoe/com.google.android.archive.ReactivateActivity}" drawable="tic_tac_toe" name="Tic Tac Toe" />
@@ -21266,6 +21268,7 @@
   <item component="ComponentInfo{com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.MainActivity}" drawable="wg_tunnel" name="WG Tunnel" />
   <item component="ComponentInfo{com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.ui.MainActivity}" drawable="wg_tunnel" name="WG Tunnel" />
   <item component="ComponentInfo{com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.ui.SplashActivity}" drawable="wg_tunnel" name="WG Tunnel" />
+  <item component="ComponentInfo{com.zaneschepke.wireguardautotunnel.nightly/com.zaneschepke.wireguardautotunnel.MainActivity}" drawable="wg_tunnel_nightly" name="WG Tunnel Nightly" />
   <item component="ComponentInfo{de.wger.flutter/de.wger.flutter.MainActivity}" drawable="wger" name="wger" />
   <item component="ComponentInfo{cz.webprovider.whatismyipaddress/cz.webprovider.whatismyipaddress.MainActivity}" drawable="what_is_my_ip_address" name="What is my IP address" />
   <item component="ComponentInfo{air.com.bartbonte.thebox/air.com.bartbonte.thebox.AIRAppEntry}" drawable="whats_inside_the_box" name="What's inside the box?" />
