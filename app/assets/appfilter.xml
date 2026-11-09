@@ -13757,6 +13757,7 @@
   <item component="ComponentInfo{com.thirtydegreesray.openhub/com.thirtydegreesray.openhub.ui.activity.SplashActivity}" drawable="github" name="OpenHub" />
   <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.KeyListActivity}" drawable="openkeychain" name="OpenKeychain" />
   <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="openkeychain" name="OpenKeychain" />
+  <item component="ComponentInfo{app.openkuma/app.openkuma.MainActivity}" drawable="openkuma" name="OpenKuma" />
   <item component="ComponentInfo{com.app.openlib/com.app.openlib.MainActivity}" drawable="openlib" name="Openlib" />
   <item component="ComponentInfo{de.uni_potsdam.hpi.openmensa/de.uni_potsdam.hpi.openmensa.MainActivity}" drawable="generic_silverware" name="OpenMensa" />
   <item component="ComponentInfo{com.opennutritracker.ont.opennutritracker/com.opennutritracker.ont.opennutritracker.MainActivity}" drawable="opennutritracker" name="OpenNutriTracker" />
